@@ -29,5 +29,35 @@
     "finance",
     "technology"
   ],
+  "screenshots": [
+    {
+      "src": "/screenshot-home.png",
+      "sizes": "709x1536",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "SAP MOBILE home dashboard"
+    },
+    {
+      "src": "/screenshot-withdraw.png",
+      "sizes": "709x1536",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "SAP MOBILE deposit page"
+    },
+    {
+      "src": "/screenshot-vip.png",
+      "sizes": "709x1536",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "SAP MOBILE VIP shares"
+    },
+    {
+      "src": "/screenshot-withdrawal.png",
+      "sizes": "709x1536",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "SAP MOBILE withdrawal page"
+    }
+  ],
   "prefer_related_applications": false
 }
